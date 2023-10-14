@@ -1,0 +1,6 @@
+> sequence1
+cctgatagacgctatctggctatccacgtacgtaggtcctctgtgcgaatctatgcgtttccaaccatgtatgta
+> sequence2
+agtactggtgtacatttgatacgtacgtacaccggcaacctgaaacaaacgctcagaaccagaagtatgtagc
+> sequence3
+aaacgtacgtgcaccctctttcttcgtgtatgtagctctggccaacgagggctgatgtataagacgaaaatttt

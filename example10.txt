@@ -1,0 +1,7 @@
+> sequence1
+atgtgatgctagatcgtg
+> sequence2
+gtgtctaacacccat
+tgt
+> sequence3
+gtcagatgcagctgatcgctggt
